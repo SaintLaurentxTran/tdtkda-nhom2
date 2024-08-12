@@ -5,10 +5,12 @@ git push : đẩy lên sever
 git status: kiểm tra các file đã thêm vào hay chưa
 git log: lịch sử các thay đổi (commit)
 
-
-cc thanh
+concu
 
 git config --global user.name "tên đệm + tên"
-git congfig --global user.email "mail đk github"
+git config --global user.email "mail đk github"
+
+
+test
 
 
