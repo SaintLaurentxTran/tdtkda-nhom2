@@ -6,7 +6,7 @@ git status: kiểm tra các file đã thêm vào hay chưa
 git log: lịch sử các thay đổi (commit)
 
 
-
+concu
 
 git config --global user.name "tên đệm + tên"
 git congfig --global user.email "mail đk github"
