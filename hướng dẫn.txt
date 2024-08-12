@@ -1,19 +1,13 @@
+git config --global user.name "tên đệm + tên"
+git config --global user.email "mail đk github"
+
+
+
+
+
 git pull: kéo các thay đổi trước đó về máy
 git add . : thêm các file đã thay đổi
 git commit -m "..." : mô tả cho thay đổi
 git push : đẩy lên sever
 git status: kiểm tra các file đã thêm vào hay chưa
-<<<<<<< HEAD
-=======
 git log: lịch sử các thay đổi (commit).
->>>>>>> 2ba943152b5d8382f9e27eeb078c97c75101c6c4
-
-concu
-
-git config --global user.name "tên đệm + tên"
-git config --global user.email "mail đk github"
-
-
-test
-
-
