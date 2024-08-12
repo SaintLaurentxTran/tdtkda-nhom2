@@ -1,0 +1,14 @@
+git pull: kéo các thay đổi trước đó về máy
+git add . : thêm các file đã thay đổi
+git commit -m "..." : mô tả cho thay đổi
+git push : đẩy lên sever
+git status: kiểm tra các file đã thêm vào hay chưa
+git log: lịch sử các thay đổi (commit)
+
+
+
+
+git config --global user.name "tên đệm + tên"
+git congfig --global user.email "mail đk github"
+
+
