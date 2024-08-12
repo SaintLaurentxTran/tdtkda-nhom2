@@ -9,6 +9,9 @@ git log: lịch sử các thay đổi (commit)
 
 
 git config --global user.name "tên đệm + tên"
-git congfig --global user.email "mail đk github"
+git config --global user.email "mail đk github"
+
+
+test
 
 
